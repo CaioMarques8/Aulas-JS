@@ -57,3 +57,5 @@ console.log(ordenado);
 
 
 console.log("testando o git...");
+
+console.log("Teste 3....");
