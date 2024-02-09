@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+div{
+    display: flex;
+    width: 50%;
+    height: 100%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    
+    
+}
+
+.inputClass{
+    /* display: flex; */
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 5px;
+    box-sizing: border-box;
+ 
+}
