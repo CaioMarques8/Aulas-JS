@@ -63,3 +63,6 @@ console.log("Teste 3....");
 console.log("teste com branch...");
 
 console.log("agora vai...");
+
+conslole.log(4+4*4);
+
